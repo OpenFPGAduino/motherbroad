@@ -1,2 +1,2 @@
 # motherbroad
-The mother broad of the OpenFPGAdunino
+The mother broad of the OpenFPGAduino
