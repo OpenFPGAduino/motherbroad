@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VDD-USBD Pin=U11-5
+Removed Pin From Net: NetName=VDD-USBH Pin=U12-5
+Added Pin To Net: NetName=VDD5V Pin=U11-5
+Added Pin To Net: NetName=VDD5V Pin=U12-5
